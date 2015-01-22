@@ -22,3 +22,4 @@ C:\Users\Victor\ProjetsASP.NET\Calculator\Calculator\bin\fr\System.Web.Mvc.resou
 C:\Users\Victor\ProjetsASP.NET\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Victor\ProjetsASP.NET\Calculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\Victor\ProjetsASP.NET\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Victor\ProjetsASP.NET\Calculator\Calculator\bin\Microsoft.Web.Infrastructure.dll
